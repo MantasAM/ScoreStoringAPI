@@ -1,0 +1,11 @@
+C:\Users\Mantas\source\repos\ResultTransferApi\ResultTransferApi\bin\Debug\netcoreapp2.0\ResultTransferApi.deps.json
+C:\Users\Mantas\source\repos\ResultTransferApi\ResultTransferApi\bin\Debug\netcoreapp2.0\ResultTransferApi.runtimeconfig.json
+C:\Users\Mantas\source\repos\ResultTransferApi\ResultTransferApi\bin\Debug\netcoreapp2.0\ResultTransferApi.runtimeconfig.dev.json
+C:\Users\Mantas\source\repos\ResultTransferApi\ResultTransferApi\bin\Debug\netcoreapp2.0\ResultTransferApi.dll
+C:\Users\Mantas\source\repos\ResultTransferApi\ResultTransferApi\bin\Debug\netcoreapp2.0\ResultTransferApi.pdb
+C:\Users\Mantas\source\repos\ResultTransferApi\ResultTransferApi\obj\Debug\netcoreapp2.0\ResultTransferApi.csprojResolveAssemblyReference.cache
+C:\Users\Mantas\source\repos\ResultTransferApi\ResultTransferApi\obj\Debug\netcoreapp2.0\ResultTransferApi.csproj.CoreCompileInputs.cache
+C:\Users\Mantas\source\repos\ResultTransferApi\ResultTransferApi\obj\Debug\netcoreapp2.0\ResultTransferApi.AssemblyInfoInputs.cache
+C:\Users\Mantas\source\repos\ResultTransferApi\ResultTransferApi\obj\Debug\netcoreapp2.0\ResultTransferApi.AssemblyInfo.cs
+C:\Users\Mantas\source\repos\ResultTransferApi\ResultTransferApi\obj\Debug\netcoreapp2.0\ResultTransferApi.dll
+C:\Users\Mantas\source\repos\ResultTransferApi\ResultTransferApi\obj\Debug\netcoreapp2.0\ResultTransferApi.pdb
